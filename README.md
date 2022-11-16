@@ -13,7 +13,7 @@
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.jpg "image_tooltip")
+![alt_text](p2_Michael_Gumm.png "image_tooltip")
 
 
 	My original plan for the interface of the mirror. I wanted to leave the middle open so the mirror can still function well as a mirror, so all of the information was to be displayed on the sides of the interface. As I began working on the final project, I made some redesigns to improve visibility of the interface and to keep it uncluttered. I was able to condense the information into widgets that only display the desired information once clicked. Because of this, I was able to keep the widgets on one side and free up even more open space. Some information, such as Sleep and Exercise was omitted to focus on more necessary data and not to overload the user with information.
