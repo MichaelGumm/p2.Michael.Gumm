@@ -4,11 +4,12 @@
 ![alt_text](p2_Michael_Gumm.png "image_tooltip")
 
 
-	My original plan for the interface of the mirror. I wanted to leave the middle open so the mirror can still function well as a mirror, so all of the information was to be displayed on the sides of the interface. As I began working on the final project, I made some redesigns to improve visibility of the interface and to keep it uncluttered. I was able to condense the information into widgets that only display the desired information once clicked. Because of this, I was able to keep the widgets on one side and free up even more open space. Some information, such as Sleep and Exercise was omitted to focus on more necessary data and not to overload the user with information.
+My original plan for the interface of the mirror. I wanted to leave the middle open so the mirror can still function well as a mirror, so all of the information was to be displayed on the sides of the interface. As I began working on the final project, I made some redesigns to improve visibility of the interface and to keep it uncluttered. I was able to condense the information into widgets that only display the desired information once clicked. Because of this, I was able to keep the widgets on one side and free up even more open space. Some information, such as Sleep and Exercise was omitted to focus on more necessary data and not to overload the user with information.
 
 **<span style="text-decoration:underline;">Final Design</span>**
 
 ![alt_text](p2_Michael_Gumm.gif "image+tooltip")
+
 **Functionality:**
 
 As a general overview of the layout, the final design displays the current date and time in the top left corner, as well as the current weather and temperature in the top right corner. On the left side of the interface are five buttons that display various information or carry out specific functions.
