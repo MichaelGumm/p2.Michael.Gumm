@@ -1,8 +1,8 @@
 **<span style="text-decoration:underline;">Links</span>**
 
-[GitHub Repository](https://github.com/MichaelGumm/p1.Michael.Gumm)
+[GitHub Repository](https://github.com/MichaelGumm/p2.Michael.Gumm)
 
-[Presentation Page]([https://michaelgumm.github.io/p2.Michael.Gumm/])
+[Presentation Page](https://michaelgumm.github.io/p2.Michael.Gumm/)
 
 
 **<span style="text-decoration:underline;">Sketch</span>**
