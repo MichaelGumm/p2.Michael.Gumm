@@ -34,3 +34,6 @@ Finally, the Light button will increment the currently active color for the ligh
 The time is accurately acquired using Processing functions such as “hour()” and “minute()” to obtain the current time in a 24 hour format. Simple math is then used to convert this into the standard time using AM or PM.
 
 The weather data is obtained through the use of openweathermap, a free to use weather api that returns a .JSON file of weather data when called. The program calls the api, then uses JSON parsing statements to select the necessary data such as current temperature and weather, then displays the data on the interface.
+
+**Presentation**
+![alt_text](p2_Michael_Gumm.mp4 "image_tooltip")
