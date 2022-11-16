@@ -36,4 +36,4 @@ The time is accurately acquired using Processing functions such as “hour()” 
 The weather data is obtained through the use of openweathermap, a free to use weather api that returns a .JSON file of weather data when called. The program calls the api, then uses JSON parsing statements to select the necessary data such as current temperature and weather, then displays the data on the interface.
 
 
-[Presentation](https://drive.google.com/file/d/1lxRZlSw1i1Yku7O6oo97WKgTIw6GtSnD/view?usp=sharing)
+[Presentation]([https://drive.google.com/file/d/1lxRZlSw1i1Yku7O6oo97WKgTIw6GtSnD/view?usp=sharing](https://drive.google.com/file/d/1-2NLMjQ54BCLJQ2L7-bgkFPVNTXwMP0s/view?usp=sharing))
