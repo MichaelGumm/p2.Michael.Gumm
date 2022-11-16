@@ -1,16 +1,4 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
 **<span style="text-decoration:underline;">Sketch</span>**
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](p2_Michael_Gumm.png "image_tooltip")
@@ -20,6 +8,7 @@
 
 **<span style="text-decoration:underline;">Final Design</span>**
 
+![alt_text](p2_Michael_Gumm.gif "image+tooltip")
 **Functionality:**
 
 As a general overview of the layout, the final design displays the current date and time in the top left corner, as well as the current weather and temperature in the top right corner. On the left side of the interface are five buttons that display various information or carry out specific functions.
